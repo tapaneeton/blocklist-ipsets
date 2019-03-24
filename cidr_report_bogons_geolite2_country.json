@@ -1,0 +1,198 @@
+[
+	{
+		"code": "AL",
+		"value": 512
+	},
+	{
+		"code": "AT",
+		"value": 10496
+	},
+	{
+		"code": "AU",
+		"value": 6400
+	},
+	{
+		"code": "BE",
+		"value": 5888
+	},
+	{
+		"code": "BG",
+		"value": 1024
+	},
+	{
+		"code": "CA",
+		"value": 256
+	},
+	{
+		"code": "CH",
+		"value": 51456
+	},
+	{
+		"code": "CN",
+		"value": 256
+	},
+	{
+		"code": "CZ",
+		"value": 3840
+	},
+	{
+		"code": "DE",
+		"value": 208512
+	},
+	{
+		"code": "DK",
+		"value": 1920
+	},
+	{
+		"code": "EE",
+		"value": 512
+	},
+	{
+		"code": "EG",
+		"value": 1280
+	},
+	{
+		"code": "ES",
+		"value": 3840
+	},
+	{
+		"code": "FI",
+		"value": 3840
+	},
+	{
+		"code": "FR",
+		"value": 43680
+	},
+	{
+		"code": "GB",
+		"value": 44160
+	},
+	{
+		"code": "GH",
+		"value": 1024
+	},
+	{
+		"code": "GI",
+		"value": 256
+	},
+	{
+		"code": "GR",
+		"value": 1536
+	},
+	{
+		"code": "HK",
+		"value": 256
+	},
+	{
+		"code": "HR",
+		"value": 256
+	},
+	{
+		"code": "HU",
+		"value": 512
+	},
+	{
+		"code": "IE",
+		"value": 528
+	},
+	{
+		"code": "IL",
+		"value": 1280
+	},
+	{
+		"code": "IN",
+		"value": 2048
+	},
+	{
+		"code": "IR",
+		"value": 768
+	},
+	{
+		"code": "IT",
+		"value": 6912
+	},
+	{
+		"code": "JP",
+		"value": 2304
+	},
+	{
+		"code": "KE",
+		"value": 1024
+	},
+	{
+		"code": "KZ",
+		"value": 768
+	},
+	{
+		"code": "LT",
+		"value": 256
+	},
+	{
+		"code": "LU",
+		"value": 1280
+	},
+	{
+		"code": "LY",
+		"value": 2048
+	},
+	{
+		"code": "MD",
+		"value": 768
+	},
+	{
+		"code": "MZ",
+		"value": 1024
+	},
+	{
+		"code": "NE",
+		"value": 768
+	},
+	{
+		"code": "NL",
+		"value": 24064
+	},
+	{
+		"code": "NO",
+		"value": 36608
+	},
+	{
+		"code": "PL",
+		"value": 2304
+	},
+	{
+		"code": "RO",
+		"value": 1024
+	},
+	{
+		"code": "RS",
+		"value": 1536
+	},
+	{
+		"code": "RU",
+		"value": 19491
+	},
+	{
+		"code": "SE",
+		"value": 2176
+	},
+	{
+		"code": "TR",
+		"value": 1024
+	},
+	{
+		"code": "UA",
+		"value": 3841
+	},
+	{
+		"code": "UG",
+		"value": 1024
+	},
+	{
+		"code": "US",
+		"value": 6921
+	},
+	{
+		"code": "VA",
+		"value": 1024
+	}
+]

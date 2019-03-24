@@ -1,0 +1,24 @@
+{
+	"ipset": "socks_proxy",
+	"started": 1528332721000,
+	"updated": 1553685723000,
+	"incomplete": 0,
+	"past": {
+		"hours": [ 
+			0,
+			1,
+			2 ],
+		"ips": [ 
+			2501765,
+			25336,
+			9 ],
+		"total": 2527110
+	},
+	"current": {
+		"hours": [ 
+			0 ],
+		"ips": [ 
+			80 ],
+		"total": 80
+	}
+}
